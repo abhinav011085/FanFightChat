@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FanFightChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_a_message_here">Type a message here</string>
+    <string name="group_name">Group Name</string>
+    <string name="member1_member2_member3">Member1, Member2, Member3</string>
+</resources>

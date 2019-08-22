@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_bubble_mine">#E9E9EB</color>
+    <color name="message_box">#EEEEEE</color>
+    <color name="shadow">#BBBBBB</color>
+    <color name="text_bubble_others">#267CC8</color>
+</resources>
